@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="question1">Toronto is the capital city of Ontario.</string>
+    <string name="question2">Vancover is the capital city of British Columbia</string>
+    <string name="question3">Charlottetown is the capital city of Prince Edward Island</string>
+    <string name="question4">Montreal is the capital city of Quebec</string>
+    <string name="truestring">True</string>
+    <string name="falsestring">False</string>
+</resources>
